@@ -27,7 +27,7 @@ Plotly – Interactive data visualization
 
 Jupyter Notebook – Analysis and documentation
 
-##### 📂 Dataset
+#### 📂 Dataset
 
 The dataset used in this project is the Superstore Sales Dataset, which contains information such as:
 
@@ -45,7 +45,7 @@ Product Information
 
 Region and Geography
 
-######🔎 Data Analysis Steps
+#####🔎 Data Analysis Steps
 1️⃣ Data Loading
 
 The dataset was loaded using Pandas and inspected to understand the structure.
@@ -82,7 +82,7 @@ Sales Distribution across categories
 
 Time-based sales patterns
 
-######📈 Visualizations
+#####📈 Visualizations
 
 Interactive charts were created using Plotly, including:
 
